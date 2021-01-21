@@ -1,25 +1,26 @@
 1. What's your favourite state management library for react and why?
--When using redux with React,states will no longer need to be lifted up.
--This make it easier for you to trace which action causes any chnages.
--Redux is maintainable.
--debugging is easy in redux
--easy to testing.
+- When using redux with React,states will no longer need to be lifted up.
+- This make it easier for you to trace which action causes any chnages.
+- Redux is maintainable.
+- debugging is easy in redux
+- easy to testing.
 
-2. Write some react native best practices.
--Use atomic Design helps to build consistent, solid, and reusable design systems.
--Lock your library dependencies.
--create a separate function to render the react native elements.
--use global variable for font size & color.
--create a separate file for logic building.
--use propTypes.
+2. Write some react native best practices?
+- Use atomic Design helps to build consistent, solid, and reusable design systems.
+- Lock your library dependencies.
+- create a separate function to render the react native elements.
+- use global variable for font size & color.
+- create a separate file for logic building.
+- use propTypes.
 
 3.Which coding style you prefer wet or dry and why?
--I preferd DRY coding Style.
+- I preferd DRY coding Style.
 why?
--Repeated Code is a common mistake.this principle state that a piece of code should be implement in just the place in th source code.
+- Repeated Code is a common mistake.
+- this principle state that a piece of code should be implement in just the place in th source code.
 
 4.What do you prefer expo or vanilla react native and why?
--I preferd Vanilla react native
+- I preferd Vanilla react native
 why?
--Some native modules not work on expo.so that best to use vanilla react native easly work.
--Native modules are automatically linked with project.
+- Some native modules are not work on expo.so that best to use vanilla react native easly work.
+- Native modules are automatically linked with project.
