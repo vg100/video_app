@@ -14,7 +14,7 @@
 - use propTypes.
 
 3.Which coding style you prefer wet or dry and why?
-- I preferd DRY coding Style.
+- I preferd DRY(Don't repeat yourself) coding Style.
 why?
 - Repeated Code is a common mistake.
 - this principle state that a piece of code should be implement in just the place in th source code.
